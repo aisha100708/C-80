@@ -1,0 +1,24 @@
+#sort_button{
+    margin-top: 10px;
+    display: none;
+    margin-bottom: 10px;
+}
+input{
+    margin: 10px;
+}
+#submit_button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+body{
+    background-color: antiquewhite;
+}
+#names_display{
+    background-color: cyan;
+    width: 80%;
+}
+#names_display_2{
+    background-color: sandybrown;
+    width: 80%;
+}
